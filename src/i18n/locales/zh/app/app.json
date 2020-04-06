@@ -1,25 +1,41 @@
 {
-  "heading": {
-    "placeholder": "Heading"
-  },
   "item": {
-    "add": "Add {{- heading}}",
+    "add": "添加 {{- heading}}",
     "startDate": {
-      "label": "Start Date",
-      "placeholder": "March 2018"
+      "label": "开始日期"
     },
     "endDate": {
-      "label": "End Date",
-      "placeholder": "March 2022"
+      "label": "结束日期"
     },
     "description": {
-      "label": "Description"
+      "label": "说明"
     }
   },
   "buttons": {
     "add": {
-      "label": "Add"
+      "label": "添加"
     }
   },
-  "markdownHelpText": "You can use <1>GitHub Flavored Markdown</1> to style this section of the text."
+  "printDialog": {
+    "heading": "下载简历",
+    "quality": {
+      "label": "品质"
+    },
+    "printType": {
+      "label": "类型",
+      "types": {
+        "unconstrained": "不受限制",
+        "fitInA4": "适合A4",
+        "multiPageA4": "多页A4"
+      }
+    },
+    "buttons": {
+      "cancel": "取消",
+      "saveAsPdf": "保存为 PDF"
+    }
+  },
+  "panZoomAnimation": {
+    "helpText": "您可以随时在画板上平移和缩放，以更仔细地查看简历。"
+  },
+  "markdownHelpText": "你可以使用 <1>GitHub 倾向的 Markdown</1> 来美化这部分文字."
 }

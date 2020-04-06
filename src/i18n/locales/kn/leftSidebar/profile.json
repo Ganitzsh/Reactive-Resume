@@ -1,40 +1,35 @@
 {
   "photoUrl": {
-    "label": "Photo URL"
+    "label": "ಫೋಟೋ URL"
   },
   "firstName": {
-    "label": "First Name",
-    "placeholder": "Jane"
+    "label": "ಮೊದಲ ಹೆಸರು"
   },
   "lastName": {
-    "label": "Last Name",
-    "placeholder": "Doe"
+    "label": "ಕೊನೆಯ ಹೆಸರು"
   },
   "subtitle": {
-    "label": "Subtitle",
-    "placeholder": "Full Stack Web Developer"
+    "label": "ಉಪಶೀರ್ಷಿಕೆ"
   },
   "address": {
+    "label": "ವಿಳಾಸ",
     "line1": {
-      "label": "Address Line 1",
-      "placeholder": "Palladium Complex"
+      "label": "ವಿಳಾಸ ಸಾಲು 1"
     },
     "line2": {
-      "label": "Address Line 2",
-      "placeholder": "140 E 14th St"
+      "label": "ವಿಳಾಸ ಸಾಲು 2"
     },
     "line3": {
-      "label": "Address Line 3",
-      "placeholder": "New York, NY 10003 USA"
+      "label": "ವಿಳಾಸ ಸಾಲು 3"
     }
   },
   "phone": {
-    "label": "Phone Number"
+    "label": "ದೂರವಾಣಿ ಸಂಖ್ಯೆ"
   },
   "website": {
-    "label": "Website"
+    "label": "ಜಾಲತಾಣ"
   },
   "email": {
-    "label": "Email Address"
+    "label": "ಇಮೇಲ್ ವಿಳಾಸ"
   }
 }

@@ -1,40 +1,35 @@
 {
   "photoUrl": {
-    "label": "Photo URL"
+    "label": "URL de la foto"
   },
   "firstName": {
-    "label": "First Name",
-    "placeholder": "Jane"
+    "label": "Primer Nombre"
   },
   "lastName": {
-    "label": "Last Name",
-    "placeholder": "Doe"
+    "label": "Apellido"
   },
   "subtitle": {
-    "label": "Subtitle",
-    "placeholder": "Full Stack Web Developer"
+    "label": "Subtítulo"
   },
   "address": {
+    "label": "Dirección",
     "line1": {
-      "label": "Address Line 1",
-      "placeholder": "Palladium Complex"
+      "label": "Línea de dirección 1"
     },
     "line2": {
-      "label": "Address Line 2",
-      "placeholder": "140 E 14th St"
+      "label": "Línea de dirección 2"
     },
     "line3": {
-      "label": "Address Line 3",
-      "placeholder": "New York, NY 10003 USA"
+      "label": "Línea de dirección 3"
     }
   },
   "phone": {
-    "label": "Phone Number"
+    "label": "Número de teléfono"
   },
   "website": {
-    "label": "Website"
+    "label": "Sitio Web"
   },
   "email": {
-    "label": "Email Address"
+    "label": "Dirección de correo electrónico"
   }
 }

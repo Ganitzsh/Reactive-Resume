@@ -1,9 +1,8 @@
 {
   "key": {
-    "label": "Key",
-    "placeholder": "Dothraki"
+    "label": "ಹೆಸರು"
   },
   "rating": {
-    "label": "Rating"
+    "label": "ರೇಟಿಂಗ್"
   }
 }

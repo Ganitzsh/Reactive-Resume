@@ -1,16 +1,11 @@
 {
   "name": {
-    "label": "Name",
-    "placeholder": "Harvard University"
+    "label": "学校"
   },
   "major": {
-    "label": "Major",
-    "placeholder": "Masters in Computer Science"
+    "label": "主修课程"
   },
   "grade": {
-    "label": "Grade"
-  },
-  "description": {
-    "placeholder": "You can write about projects or special credit classes that you took while studying at this school."
+    "label": "学分"
   }
 }

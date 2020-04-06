@@ -1,19 +1,14 @@
 {
   "name": {
-    "label": "Name",
-    "placeholder": "Richard Hendricks"
+    "label": "ಹೆಸರು"
   },
   "position": {
-    "label": "Position",
-    "placeholder": "CEO, Pied Piper"
+    "label": "ಸ್ಥಾನ"
   },
   "phone": {
-    "label": "Phone Number"
+    "label": "ದೂರವಾಣಿ ಸಂಖ್ಯೆ"
   },
   "email": {
-    "label": "Email Address"
-  },
-  "description": {
-    "placeholder": "You can write about how you and the reference contact worked together and which projects you were a part of."
+    "label": "ಇಮೇಲ್ ವಿಳಾಸ"
   }
 }
